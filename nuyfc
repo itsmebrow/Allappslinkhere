@@ -1,0 +1,10 @@
+{
+  "versionapp": "2.0",
+  "titulo": "Update Available",
+  "subtitulo": "We have improved performance and fixed bugs. Update now to enjoy the best experience.",
+  "btn_close_text": "Cancel",
+  "btn_update_text": "Update",
+  "update_link": "https://t.me/FwDialogs",
+  "functionClose": true,
+  "functionExit": false
+}
