@@ -2,6 +2,6 @@
   "version": 7,
   "title": "New Update Available",
   "subtitle": "Update Your Application",
-  "closeButton": false,
+  "closeButton": true,
   "link": "https://t.me/FwDialogs"
 }
