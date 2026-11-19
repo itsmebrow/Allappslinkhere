@@ -1,0 +1,14 @@
+{
+  "isUpdate": true,
+  "forceUpdate": true,
+  "version": "v2.0 • New Release",
+  "title": "New Update Available!",
+  "subtitle": "Update to the latest version to enjoy new features and smoother performance.",
+  "buttonText": "Update Now",
+  "updateUrl": "https://telegram.me/Secretmodofficial",
+  "description": [
+    "New modern UI & faster loading speed",
+    "Important bug fixes and stability improvements",
+    "Please tap Update Now below to get the latest version"
+  ]
+}
