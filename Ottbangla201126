@@ -1,14 +1,40 @@
 {
-  "isUpdate": true,
+  "isUpdate": false,
+  "latestVersion": "v2.0",
+  "updateUrl": "https://t.me/+hkAOvXt7AAE3ZDVl",
+  "buttonText": "UPDATE NOW",
   "forceUpdate": true,
-  "version": "v2.0 • New Release",
-  "title": "New Update Available!",
-  "subtitle": "Update to the latest version to enjoy new features and smoother performance.",
-  "buttonText": "Update Now",
-  "updateUrl": "https://telegram.me/Secretmodofficial",
+
+  "telegramUrl": "https://t.me/+hkAOvXt7AAE3ZDVl",
+  "facebookUrl": "https://t.me/+hkAOvXt7AAE3ZDVl",
+  "youtubeUrl": "https://t.me/+hkAOvXt7AAE3ZDVl",
+
   "description": [
     "New modern UI & faster loading speed",
     "Important bug fixes and stability improvements",
     "Please tap Update Now below to get the latest version"
+  ],
+
+  "trendingApps": [
+    {
+      "name": "OTT Bangla Prime VIP",
+      "version": "v2.0 • New Release",
+      "url": "https://t.me/+hkAOvXt7AAE3ZDVl"
+    },
+    {
+      "name": "Live Sports TV",
+      "version": "v2.4.0",
+      "url": "https://t.me/+hkAOvXt7AAE3ZDVl"
+    },
+    {
+      "name": "CineMax HD",
+      "version": "v3.1.2",
+      "url": "https://t.me/+hkAOvXt7AAE3ZDVl"
+    },
+    {
+      "name": "Bangla Natok Box",
+      "version": "v1.8.5",
+      "url": "https://t.me/+hkAOvXt7AAE3ZDVl"
+    }
   ]
 }
